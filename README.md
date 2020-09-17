@@ -9,5 +9,6 @@ This is my attempt at the Analytics Vidhya Janata Hack Cross Sell Prediction.
 - SGDClassifier
 - LGBMClassifier
 - CatBoostClassifier
-I have not done a lot of Parameter tuning and Grid Search so feel free to contribute as long as the original files are preserved. 
+
+# I have not done a lot of Parameter tuning and Grid Search so feel free to contribute as long as the original files are preserved. 
 
